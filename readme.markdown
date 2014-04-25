@@ -3,6 +3,10 @@
 angle between the center and each corner of a regular minimal polygon in n
 dimensions
 
+[![testling badge](https://ci.testling.com/substack/center-corner-vector-angle.png)](https://ci.testling.com/substack/center-corner-vector-angle)
+
+[![build status](https://secure.travis-ci.org/substack/center-corner-vector-angle.png)](http://travis-ci.org/substack/center-corner-vector-angle)
+
 # example
 
 ``` js
