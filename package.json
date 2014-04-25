@@ -4,8 +4,6 @@
   "description": "angle between the center and each corner of a regular minimal polygon in n dimensions",
   "main": "index.js",
   "dependencies": {
-    "cross-product": "~0.0.0",
-    "robust-determinant": "~0.0.0",
     "robust-dot-product": "~0.0.0"
   },
   "devDependencies": {
