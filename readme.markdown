@@ -1,6 +1,6 @@
 # center-corner-vector-angle
 
-return the angle between the center and each corner of a minimal polygon in `n`
+angle between the center and each corner of a regular minimal polygon in n
 dimensions
 
 # example
@@ -49,7 +49,7 @@ Return the `angle` in radians for the regular polygon with `n` points in `n`
 dimensions.
 
 In 2 dimensions, this is the angle between the centerpoint of an equilateral
-triangle and 2 of the other points.
+triangle and 2 of the other points, which is pi/3.
 
 # install
 

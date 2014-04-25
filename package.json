@@ -1,0 +1,36 @@
+{
+  "name": "center-corner-vector-angle",
+  "version": "1.0.0",
+  "description": "angle between the center and each corner of a regular minimal polygon in n dimensions",
+  "main": "index.js",
+  "dependencies": {
+    "cross-product": "~0.0.0",
+    "robust-determinant": "~0.0.0",
+    "robust-dot-product": "~0.0.0"
+  },
+  "devDependencies": {
+    "tape": "~2.12.1"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/center-corner-vector-angle.git"
+  },
+  "homepage": "https://github.com/substack/center-corner-vector-angle",
+  "keywords": [
+    "angle",
+    "n-dimensional",
+    "equilateral",
+    "tetrahedron",
+    "triangle",
+    "radians"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
